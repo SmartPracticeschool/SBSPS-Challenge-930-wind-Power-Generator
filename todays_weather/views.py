@@ -6,13 +6,13 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
-import io
-import urllib, base64
-import os
+# import io
+# import urllib, base64
+# import os
 
 import geocoder
 import reverse_geocoder as rg
-import pprint
+
 model = load_model('ibm3_best.h5') 
 print ('model loaded..')
 
