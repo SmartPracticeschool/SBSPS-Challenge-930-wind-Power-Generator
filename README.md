@@ -7,4 +7,3 @@ This is video of our projecta which includes the explaination of the code and de
 
 https://drive.google.com/file/d/1OEKxWaEuWBbtEysjoQk5oEIQx5H1pzqZ/view?usp=sharing
 
-https://github.com/SmartPracticeschool/SBSPS-Challenge-930-wind-Power-Generator/blob/master/report.pdf
